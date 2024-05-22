@@ -30,12 +30,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/yourusername/My-portfolio.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd My-portfolio
     ```
 
 3. Install the dependencies:
