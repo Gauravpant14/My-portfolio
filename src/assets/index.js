@@ -34,6 +34,7 @@ import kmit from "./company/kmit.svg"
 import AllBall from "./allball.png"
 import BargainAir from "./bargainair.png"
 import PccTour from "./pcctour.png"
+
 export {
   logo,
   backend,
@@ -67,6 +68,8 @@ export {
   kmit,
   AllBall,
   BargainAir,
-  PccTour
+  PccTour,
+
+
 
 };
