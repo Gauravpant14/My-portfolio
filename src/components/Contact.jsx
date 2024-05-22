@@ -119,7 +119,7 @@ const Contact = () => {
               </li>
               <li>
                 <a
-                  href="https://wa.me/8859019957"
+                  href="https://wa.me/+918859019957"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-green-500 hover:text-green-700"
