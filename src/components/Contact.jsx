@@ -13,7 +13,6 @@ import LinkedIn from "../assets/svg/LinkedIn";
 import Whatsapp from "../assets/svg/whatsapp";
 import Twitter from "../assets/svg/twitter";
 import Instagram from "../assets/svg/Instagram";
-
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({

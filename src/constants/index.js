@@ -190,7 +190,11 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Bootstrap",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Redux",
         color: "pink-text-gradient",
       },
     ],
@@ -212,6 +216,10 @@ const projects = [
       },
       {
         name: "scss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Redux-Toolkit",
         color: "pink-text-gradient",
       },
     ],
@@ -248,7 +256,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Styled Component",
         color: "green-text-gradient",
       },
       {
