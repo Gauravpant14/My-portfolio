@@ -13,6 +13,7 @@ import LinkedIn from "../assets/svg/LinkedIn";
 import Whatsapp from "../assets/svg/whatsapp";
 import Twitter from "../assets/svg/twitter";
 import Instagram from "../assets/svg/Instagram";
+import MyResume from "../assets/resume/Gaurav_Frontend_Developer_1.pdf";
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -76,7 +77,7 @@ const Contact = () => {
     >
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
-        className="xl:flex-1 xl:h-auto md:h-[300px] h-[300px] "
+        className="xl:flex-1 xl:h-auto md:h-[300px] h-[350px] "
       >
         <div>
           <p className="text-secondary md:text-[24px] text-[20px] ">
@@ -148,7 +149,11 @@ const Contact = () => {
               </li>
             </ul>
           </li>
+           <li>
+            <a className="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded hover:cursor-pointer" href={MyResume} download={"Gaurav_Pant_Front_End_Resume"} target="_blank">Download Resume</a>
+            </li> 
         </ul>
+
       </motion.div>
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
