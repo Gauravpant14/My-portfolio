@@ -176,31 +176,31 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Event Scheduler App",
-    description:
-      "A Comprehensive Sports Management Software Suite. designed to keep coaches, players, and league operators connected and on the same page. ",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Bootstrap",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "Redux",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: AllBall,
-    source_code_link: "https://www.allballapp.com/",
-  },
+  // {
+  //   name: "Event Scheduler App",
+  //   description:
+  //     "A Comprehensive Sports Management Software Suite. designed to keep coaches, players, and league operators connected and on the same page. ",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Bootstrap",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Redux",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: AllBall,
+  //   source_code_link: "https://www.allballapp.com/",
+  // },
   {
     name: "Car Booking Webapp",
     description:
