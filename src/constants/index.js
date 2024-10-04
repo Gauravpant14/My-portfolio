@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   softprodigy,
+  PS,
   kmit,
   AllBall,
   BargainAir,
@@ -122,11 +123,24 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Senior Experience Engineer",
+    company_name: "Publicis Sapient",
+    icon: PS,
+    iconBg: "#D93D7A",
+    date: "SEPT 2024 - Current",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
     title: "Software Engineer",
     company_name: "Softprodigy System Solutions PVT LTD",
     icon: softprodigy,
     iconBg: "#383E56",
-    date: "JULY 2021 - Current",
+    date: "JULY 2021 - SEPT 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
